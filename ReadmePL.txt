@@ -1,0 +1,1 @@
+Projekt przedstawia wyspê stworzon¹ za pomoc¹ edytora terenu w Unity. 
